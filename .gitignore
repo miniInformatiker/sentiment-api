@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Rust
+rust-addon/target/
+rust-addon/*.node
+
+# Node.js
+node_modules/
+dist/
+
+# Modell (zu groß für Git)
+model/
+
+# macOS
+.DS_Store
+.idea/
